@@ -50,9 +50,9 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: C:\Users\ehddn\OneDrive\바탕 화면\내사진.jpg
+about_profile_image: https://user-images.githubusercontent.com/79897135/109655013-275b1400-7ba6-11eb-9751-a21566d9c5c9.jpg
 about_content: | # this will include new lines to allow paragraphs
-  //Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.//
+  <--Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.-->
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
