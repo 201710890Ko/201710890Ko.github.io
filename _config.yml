@@ -49,19 +49,19 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: 자기소개 (Use this to override about section title)
+about_title: 자기소개 
 about_profile_image: https://user-images.githubusercontent.com/79897135/109655013-275b1400-7ba6-11eb-9751-a21566d9c5c9.jpg
 about_content: | # this will include new lines to allow paragraphs
   [^1]: Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  \\<--You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
     - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+    - Images ![alt text](/images/landscape-trees.jpg "Trees") -->
 
 content:
-  - title: Projects # Title for the section
+  - title: 프로젝트 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -79,7 +79,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+  - title: 활동
     layout: list
     content:
       - layout: right
@@ -91,7 +91,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
+  - title: 교육
     layout: list
     content:
       - layout: top-right
@@ -102,7 +102,7 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
+  - title: 공부해온 언어
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
@@ -111,7 +111,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+# references_title: (Override references text)
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
