@@ -6,13 +6,13 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: 고동우
+title: 상명대학교 게임학과 3학년 재학
+email: ehddn2202@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 010-7231-9001
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: Nope
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
