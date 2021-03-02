@@ -49,7 +49,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+# about_title:  (Use this to override about section title)
 about_profile_image: https://user-images.githubusercontent.com/79897135/109655013-275b1400-7ba6-11eb-9751-a21566d9c5c9.jpg
 about_content: | # this will include new lines to allow paragraphs
   <--Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.-->
