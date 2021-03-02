@@ -54,9 +54,7 @@ about_profile_image: https://user-images.githubusercontent.com/79897135/10965501
 about_content: | # this will include new lines to allow paragraphs
   [^1]: Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
   2017학년도 상명대학교 융합공과대학 컴퓨터과학과에 합격해 입학을 하고 2학년 1학기를 마친뒤 
-  하고 싶은일을 하자는 마음으로 게임학과로 전과를 하게 되었습니다. 
-  게임학과에선 아직 한 학기 밖에 다니지 않아 잘 모르는것이 많을지도 모르지만
-  부족한 만큼 노력하여 채워나가겠습니다.
+  하고 싶은일을 하자는 마음으로 게임학과로 전과를 하게 되었습니다.    게임학과에선 아직 한 학기 밖에 다니지 않아 잘 모르는것이 많을지도 모르지만 부족한 만큼 노력하여 채워나가겠습니다.   
   앞으로도 잘 부탁드립니다.
 
 content:
@@ -65,14 +63,10 @@ content:
     content:
       - layout: left
         title: 장점과 단점
-        link: 
-        text: 장점
- 
+        sub_title: 장점
         description: | # this will include new lines to allow paragraphs
-         저는 얼마나 많은 시간이 들지라도 결코 포기하지 않습니다. 한번 시작한 일은 해결이 될때까지 끝까지 하는 인내심을 갖고 있습니다.
-         
-        text: 단점
- 
+         비록 많은 시간이 들지라도 한번 시작한 일은 포기하지 않고 끝까지 하는 인내심을 갖고 있습니다.
+        sub_title: 단점
         description: | # this will include new lines to allow paragraphs
          흔히 말하는 팔랑귀를 가지고 있습니다. 남이 하는말에 쉽게 넘어가고 설득되곤 합니다. 
          
