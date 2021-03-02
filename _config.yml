@@ -79,9 +79,10 @@ content:
         caption: 재학기간 (eg. March 2017 - present)
         link: https://game.smu.ac.kr/game01/index.do
         quote: >
-          상명대학교 공모전 동아리 팔레트(Pallete)를 통해   
-          2018년 에너지 작품 공모전 수상 경력이 있습니다. 
+          
         description: | # this will include new lines to allow paragraphs
+          상명대학교 공모전 동아리 팔레트(Pallete)를 통해    
+          2018년 에너지 작품 공모전 수상 경력이 있습니다.
           
   - title: 교육
     layout: list
