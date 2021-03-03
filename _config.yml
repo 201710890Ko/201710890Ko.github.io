@@ -86,8 +86,8 @@ content:
   - title: 공부해온 언어
     layout: text
     content: | # this will include new lines to allow paragraphs
-      자바스크립트
-      유니티를 이용한 c#   
+      자바스크립트   
+      유니티를 이용한 c#      
       언리얼 엔진을 이용한 c++및 블루프린트
 
 # Footer
