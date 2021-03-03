@@ -82,22 +82,13 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           상명대학교 공모전 동아리 팔레트(Pallete)를 통해    
-          2018년 에너지 작품 공모전 수상 경력이 있습니다.
+          2018년 에너지 작품 공모전 수상
           
-  - title: 교육
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+ 
   - title: 공부해온 언어
     layout: text
     content: | # this will include new lines to allow paragraphs
+      자바스크립트
       유니티를 이용한 c#   
       언리얼 엔진을 이용한 c++및 블루프린트
 
